@@ -1,11 +1,11 @@
 body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
 
 .controller.ds4.white {
-background-image: url(green_base.svgz)
+background-image: url(base.svgz)
 }
 .ds4.white .stick {
-background-image: url(green_sticks.svgz)
+background-image: url(sticks.svgz)
 }
 .ds4.white .face {
-background-image: url(green_dpad.svgz)
+background-image: url(dpad.svgz)
 }
