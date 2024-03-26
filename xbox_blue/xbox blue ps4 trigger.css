@@ -1,0 +1,47 @@
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
+
+.xbox.white {
+background: url(https://cdn.discordapp.com/attachments/617319015395753984/999402321643585646/base-white_ps4_trigger.svgz)}
+
+.xbox .button{
+margin-top:6px;
+background: url(https://cdn.discordapp.com/attachments/617319015395753984/999402304644059176/abxy.svgz)
+}
+
+.xbox .y{
+background-position: 48px 0;
+}
+
+.xbox .x{
+background-position: -98px 0;
+}
+
+.xbox .b{
+background-position: -49px 0;
+}
+
+.xbox .bumper {
+background: url(https://cdn.discordapp.com/attachments/617319015395753984/929677634319839252/bumper.svgz)
+}
+
+.xbox .stick{
+background: url(https://cdn.discordapp.com/attachments/617319015395753984/999403719684800512/stick.svgz);
+background-position: 83px 0;
+}
+
+.xbox .trigger{
+position: relative;
+width: 100px;
+height: 91px;
+background: url(https://cdn.discordapp.com/attachments/617319015395753984/929676418001027152/ps4_trigger.svgz)
+}
+
+.xbox .trigger.left{
+left: -9px;
+top: 33px;
+}
+
+.xbox .trigger.right{
+right: -9px;
+top: 33px;
+}
