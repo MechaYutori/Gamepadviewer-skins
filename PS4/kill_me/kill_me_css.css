@@ -1,24 +1,24 @@
 body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
 
 .controller.ds4.white {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/762245306728316938/kill_me_base.svgz)}
+background-image: url(kill_me_base.svgz)}
 .ds4.white .stick {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/762245314081325056/kill_me_sticks.svgz)}
+background-image: url(kill_me_sticks.svgz)}
 .ds4.white .face {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/762245311925452810/kill_me_dpad.svgz)}
+background-image: url(kill_me_dpad.svgz)}
 .ds4.white .trigger {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/762245316576542761/kill_me_triggers.svgz)}
+background-image: url(kill_me_triggers.svgz)}
 .ds4.white .trigger.left {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/762245316576542761/kill_me_triggers.svgz)}
+background-image: url(kill_me_triggers.svgz)}
 .ds4.white .trigger.right {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/762245316576542761/kill_me_triggers.svgz)}
+background-image: url(kill_me_triggers.svgz)}
 .ds4.white .bumper {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/762245310818811904/kill_me_bumper.svgz)}
+background-image: url(kill_me_bumper.svgz)}
 .ds4.white .start {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/762245313070891008/kill_me_start.svgz)}
+background-image: url(kill_me_start.svgz)}
 .ds4.white .back, ds4.start {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/762245313070891008/kill_me_start.svgz)}
+background-image: url(kill_me_start.svgz)}
 .ds4.white .touchpad.pressed {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/762245314840100864/kill_me_touchpad.svgz)}
+background-image: url(kill_me_touchpad.svgz)}
 .ds4.white .button{
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/762245309224321054/kill_me_face.svgz)}
+background-image: url(kill_me_face.svgz)}
