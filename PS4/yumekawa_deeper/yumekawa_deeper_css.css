@@ -1,24 +1,24 @@
 body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
 
 .controller.ds4.white {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066935287051198464/yumekawa_deeper_base.svgz)}
+background-image: url(yumekawa_deeper_base.svgz)}
 .ds4.white .stick {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066935286082318506/yumekawa_deeper_sticks.svgz)}
+background-image: url(yumekawa_deeper_sticks.svgz)}
 .ds4.white .face {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066935285180530789/yumekawa_deeper_dpad.svgz)}
+background-image: url(yumekawa_deeper_dpad.svgz)}
 .ds4.white .trigger {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066935286770184283/yumekawa_deeper_triggers.svgz)}
+background-image: url(yumekawa_deeper_triggers.svgz)}
 .ds4.white .trigger.left {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066935286770184283/yumekawa_deeper_triggers.svgz)}
+background-image: url(yumekawa_deeper_triggers.svgz)}
 .ds4.white .trigger.right {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066935286770184283/yumekawa_deeper_triggers.svgz)}
+background-image: url(yumekawa_deeper_triggers.svgz)}
 .ds4.white .bumper {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066935284882747392/yumekawa_deeper_bumper.svgz)}
+background-image: url(yumekawa_deeper_bumper.svgz)}
 .ds4.white .start {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066935285797101578/yumekawa_deeper_start.svgz)}
+background-image: url(yumekawa_deeper_start.svgz)}
 .ds4.white .back, ds4.start {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066935285797101578/yumekawa_deeper_start.svgz)}
+background-image: url(yumekawa_deeper_start.svgz)}
 .ds4.white .touchpad.pressed {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066935286422044723/yumekawa_deeper_touchpad.svgz)}
+background-image: url(yumekawa_deeper_touchpad.svgz)}
 .ds4.white .button{
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066935285507698739/yumekawa_deeper_face.svgz)}
+background-image: url(yumekawa_deeper_face.svgz)}
