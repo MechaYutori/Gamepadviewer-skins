@@ -1,0 +1,30 @@
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
+
+.xbox.white {
+background: url(https://cdn.discordapp.com/attachments/617319015395753984/929315233749692466/base-white.svgz)}
+
+.xbox .button{
+margin-top:6px;
+background: url(https://cdn.discordapp.com/attachments/617319015395753984/929680584698126336/abxy.svgz)
+}
+
+.xbox .y{
+background-position: 48px 0;
+}
+
+.xbox .x{
+background-position: -98px 0;
+}
+
+.xbox .b{
+background-position: -49px 0;
+}
+
+.xbox .bumper {
+background: url(https://cdn.discordapp.com/attachments/617319015395753984/929677634319839252/bumper.svgz)
+}
+
+.xbox .stick{
+background: url(https://cdn.discordapp.com/attachments/617319015395753984/929277054199935017/stick.svgz);
+background-position: 83px 0;
+}
