@@ -1,24 +1,24 @@
 body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
 
 .controller.ds4.white {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/672744200818917392/sakura_base.svgz)}
+background-image: url(sakura_base.svgz)}
 .ds4.white .stick {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/672744209211588618/sakura_sticks.svgz)}
+background-image: url(sakura_sticks.svgz)}
 .ds4.white .face {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/672744204958695444/sakura_dpad.svgz)}
+background-image: url(sakura_dpad.svgz)}
 .ds4.white .trigger {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/672744212290076682/sakura_triggers.svgz)}
+background-image: url(sakura_triggers.svgz)}
 .ds4.white .trigger.left {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/672744212290076682/sakura_triggers.svgz)}
+background-image: url(sakura_triggers.svgz)}
 .ds4.white .trigger.right {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/672744212290076682/sakura_triggers.svgz)}
+background-image: url(sakura_triggers.svgz)}
 .ds4.white .bumper {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/672744203654004736/sakura_bumper.svgz)}
+background-image: url(sakura_bumper.svgz)}
 .ds4.white .start {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/672744207735062548/sakura_start.svgz)}
+background-image: url(sakura_start.svgz)}
 .ds4.white .back, ds4.start {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/672744207735062548/sakura_start.svgz)}
+background-image: url(sakura_start.svgz)}
 .ds4.white .touchpad.pressed {
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/672744210725601291/sakura_touchpad.svgz)}
+background-image: url(sakura_touchpad.svgz)}
 .ds4.white .button{
-background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/672744206422507550/sakura_face.svgz)}
+background-image: url(sakura_face.svgz)}
