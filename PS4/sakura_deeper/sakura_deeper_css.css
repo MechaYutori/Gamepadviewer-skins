@@ -1,0 +1,24 @@
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
+
+.controller.ds4.white {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066169649605120080/sakura_deeper_base.svgz)}
+.ds4.white .stick {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066169648623653014/sakura_deeper_sticks.svgz)}
+.ds4.white .face {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066169647726071918/sakura_deeper_dpad.svgz)}
+.ds4.white .trigger {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066169649269592206/sakura_deeper_triggers.svgz)}
+.ds4.white .trigger.left {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066169649269592206/sakura_deeper_triggers.svgz)}
+.ds4.white .trigger.right {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066169649269592206/sakura_deeper_triggers.svgz)}
+.ds4.white .bumper {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066169647377960981/sakura_deeper_bumper.svgz)}
+.ds4.white .start {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066169648309096448/sakura_deeper_start.svgz)}
+.ds4.white .back, ds4.start {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066169648309096448/sakura_deeper_start.svgz)}
+.ds4.white .touchpad.pressed {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066169648887906344/sakura_deeper_touchpad.svgz)}
+.ds4.white .button{
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/1066169648023879821/sakura_deeper_face.svgz)}

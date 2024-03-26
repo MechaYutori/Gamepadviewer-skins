@@ -1,0 +1,23 @@
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
+
+.controller.ds4.white {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/617320843466375168/blue_base.svgz)
+}
+.ds4.white .stick {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/617320840228503562/blue_sticks.svgz)
+}
+.ds4.white .face {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/617320838563102721/blue_dpad.svgz)
+}
+.ds4.white .trigger {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/617320841759162388/blue_triggers.svgz)
+}
+.ds4.white .trigger.left {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/617320841759162388/blue_triggers.svgz)
+}
+.ds4.white .trigger.right {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/617320841759162388/blue_triggers.svgz)
+}
+.ds4.white .bumper {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/617320837170855937/blue_bumper.svgz)
+}

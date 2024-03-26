@@ -1,0 +1,11 @@
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
+
+.controller.ds4.white {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/617329682739888129/green_base.svgz)
+}
+.ds4.white .stick {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/617329692755623937/green_sticks.svgz)
+}
+.ds4.white .face {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/617329689668747264/green_dpad.svgz)
+}

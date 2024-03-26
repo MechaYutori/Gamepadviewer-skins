@@ -1,0 +1,24 @@
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
+
+.controller.ds4.white {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/628316083014598704/yumekawa2_base.svgz)}
+.ds4.white .stick {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/628313382348521482/yumekawa2_sticks.svgz)}
+.ds4.white .face {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/628316083966836736/yumekawa2_dpad.svgz)}
+.ds4.white .trigger {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/628313170812862494/yumekawa2_triggers.svgz)}
+.ds4.white .trigger.left {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/628313170812862494/yumekawa2_triggers.svgz)}
+.ds4.white .trigger.right {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/628313170812862494/yumekawa2_triggers.svgz)}
+.ds4.white .bumper {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/628313168191422464/yumekawa2_bumper.svgz)}
+.ds4.white .start {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/628313615174467594/yumekawa2_start.svgz)}
+.ds4.white .back, ds4.start {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/628313615174467594/yumekawa2_start.svgz)}
+.ds4.white .touchpad.pressed {
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/628310522139508819/yumekawa2_touchpad.svgz)}
+.ds4.white .button{
+background-image: url(https://cdn.discordapp.com/attachments/617319015395753984/628316502231351337/yumekawa2_face.svgz)}
