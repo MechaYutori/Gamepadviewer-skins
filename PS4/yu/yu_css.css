@@ -1,24 +1,24 @@
 body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
 
 .controller.ds4.white {
-background-image: url(https://raw.githubusercontent.com/MechaYutori/Gamepadviewer-skins/main/PS4/yu/yu_base.svgz)}
+background-image: url(yu_base.svgz)}
 .ds4.white .stick {
-background-image: url(https://raw.githubusercontent.com/MechaYutori/Gamepadviewer-skins/main/PS4/yu/yu_sticks.svgz)}
+background-image: url(yu_sticks.svgz)}
 .ds4.white .face {
-background-image: url(https://raw.githubusercontent.com/MechaYutori/Gamepadviewer-skins/main/PS4/yu/yu_dpad.svgz)}
+background-image: url(yu_dpad.svgz)}
 .ds4.white .trigger {
-background-image: url(https://raw.githubusercontent.com/MechaYutori/Gamepadviewer-skins/main/PS4/yu/yu_triggers.svgz)}
+background-image: url(yu_triggers.svgz)}
 .ds4.white .trigger.left {
-background-image: url(https://raw.githubusercontent.com/MechaYutori/Gamepadviewer-skins/main/PS4/yu/yu_triggers.svgz)}
+background-image: url(yu_triggers.svgz)}
 .ds4.white .trigger.right {
-background-image: url(https://raw.githubusercontent.com/MechaYutori/Gamepadviewer-skins/main/PS4/yu/yu_triggers.svgz)}
+background-image: url(yu_triggers.svgz)}
 .ds4.white .bumper {
-background-image: url(https://raw.githubusercontent.com/MechaYutori/Gamepadviewer-skins/main/PS4/yu/yu_bumper.svgz)}
+background-image: url(yu_bumper.svgz)}
 .ds4.white .start {
-background-image: url(https://raw.githubusercontent.com/MechaYutori/Gamepadviewer-skins/main/PS4/yu/yu_start.svgz)}
+background-image: url(yu_start.svgz)}
 .ds4.white .back, ds4.start {
-background-image: url(https://raw.githubusercontent.com/MechaYutori/Gamepadviewer-skins/main/PS4/yu/yu_start.svgz)}
+background-image: url(yu_start.svgz)}
 .ds4.white .touchpad.pressed {
-background-image: url(https://raw.githubusercontent.com/MechaYutori/Gamepadviewer-skins/main/PS4/yu/yu_touchpad.svgz)}
+background-image: url(yu_touchpad.svgz)}
 .ds4.white .button{
-background-image: url(https://raw.githubusercontent.com/MechaYutori/Gamepadviewer-skins/main/PS4/yu/yu_face.svgz)}
+background-image: url(yu_face.svgz)}
